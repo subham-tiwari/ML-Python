@@ -1,0 +1,44 @@
+
+As a data scientist, what are some tools you use that save a huge amount of your time?
+Mathew Lichti
+Mathew Lichti, studied Bachelor of Science in Electrical Engineering at University of Iowa (2007)
+Answered 1h ago
+In today’s world of competitiveness everyone aims for for just one goal which is to get hired (as a data scientist), one concrete way to understand what hiring managers are looking for is to ask them. Since you are new, this can be a bit tougher than it looks. So the second best way is to look at data science job advertisements to see what tools are listed.
+
+Data Science is a vast field and one of the most important skill or tool one must know to excel in the field is Programming………..
+
+Data scientists are inquisitive and often seek out new tools that help them find answers. Overall, data scientists should have a working knowledge of statistical programming languages for constructing data processing systems, databases, and visualization tools. Many in the field also deem a knowledge of programming an integral part of data science; however, not all data scientist students study programming, so it is helpful to be aware of tools that circumvent programming and include a user-friendly graphical interface so that data scientists’ knowledge of algorithms is enough to help them build predictive models.
+
+Programming is an integral part of data science. Among other things, it is acknowledged that a person who understands programming logic, loops and functions has a higher chance of becoming a successful data scientist. But many of the successful Data Scientist (including me) never ever got a chance to study Programming as a core subject in order to master the field. So, how did we excel in this field? That’s where your tools comes into action.
+
+Here are some important tools that one must get their hands-on to gain the experience and thoroughly aware of the usage of each one of them in detail:-
+
+RapidMiner: - RapidMiner (RM) was originally started in 2006 as an open-source stand-alone software named Rapid-I. Over the years, they have given it the name of RapidMiner and also attained ~35Mn USD in funding. The tool is open-source for old version (below v6) but the latest versions come in a 14-day trial period and licensed after that. RM covers the entire life-cycle of prediction modeling, starting from data preparation to model building and finally validation and deployment. The GUI is based on a block-diagram approach, something very similar to Matlab Simulink. There are predefined blocks which act as plug and play devices. You just have to connect them in the right manner and a large variety of algorithms can be run without a single line of code. On top of this, they allow custom R and Python scripts to be integrated into the system.
+Algorithms.io : - Algorithms.io is a LumenData Company providing machine learning as a service for streaming data from connected devices. This tool turns raw data into real-time insights and actionable events so that companies are in a better position to deploy machine learning for streaming data. Key Features: Simplifies the process of making machine learning accessible to companies and developers working with connected devices. Cloud platform addresses the common challenges with infrastructure, scale, and security that arise when deploying machine data.
+DataRobot: - DataRobot offers a machine learning platform for data scientists of all skill levels to build and deploy accurate predictive models in a fraction of the time it used to take. The technology addresses the critical shortage of data scientists by changing the speed and economics of predictive analytics. The DataRobot platform uses massively parallel processing to train and evaluate 1000’s of models in R, Python, Spark MLlib, H2O and other open source libraries. It searches through millions of possible combinations of algorithms, pre-processing steps, features, transformations and tuning parameters to deliver the best models for your dataset and prediction target. They offer three main products.
+Trifacta: - Trifacta’s mission is to create radical productivity for people who analyze data. They are deeply focused on solving the biggest bottleneck in the data lifecycle, data wrangling, by making it more intuitive and efficient for anyone who works with data. Their main product is the Wrangler. Wrangler helps data analysts clean and prepare messy, diverse data more quickly and accurately. Simply import your datasets to Wrangler and the application will automatically begin to organize and structure your data. Wrangler’s machine learning algorithms will even help you to prepare your data by suggesting common transformations and aggregations.
+BigML: - BigML provides a good GUI which takes the user through 6 steps as following:
+Sources: use various sources of information
+Datasets: use the defined sources to create a dataset
+Models: make predictive models
+Predictions: generate predictions based on the model
+Ensembles: create ensemble of various models
+Evaluation: very model against validation sets
+Apart from these there are dozens of other tools that can be found helpful to a data lover and make your work easier. For reference you can see the list below: -
+
+Apache Storm
+Cascading
+Google Cloud ML
+Fortran
+JavaScript
+JMP
+Mahout
+objective-C
+QlickView
+Redis
+Redshift
+sed
+Data RPM and many others……………………..
+It is not necessary to grab knowledge about every tool, all of these pose a potential threat to the job of a data scientist, which is expected to grow in the near future. These tools are best suited for people who are not familiar with programming & coding.
+
+Keep reading!!!!!
